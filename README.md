@@ -1,5 +1,8 @@
 # Roadmap for data in DimA manuscript 2025
-
+## Fig 1D,E. RNAseq volcano plots and venn diagrams
+- pipeline for running RNAseq
+  https://github.com/trestle-biosciences/rnaseq_prokaryotes.git
+  
 ## Fig 1A. Pylogentic species tree 
 - /Users/jonathanwinkelman/Trestle_long-term-storage/Mukherjee_lab/mapping_PA14_20480_to_Pseudomonas/
 - with DimA, clin vs environmental, and Genera of interest mapped ot it in itol 
