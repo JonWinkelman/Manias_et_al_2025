@@ -1,7 +1,13 @@
 # Roadmap for data in DimA manuscript 2025
 ## Fig 1D,E. RNAseq volcano plots and venn diagrams
-- pipeline for running RNAseq  
+- pipeline for running RNAseq 
+- ./dimA_RNA_seq_2025/rnaseq_prokaryotes
   https://github.com/trestle-biosciences/rnaseq_prokaryotes.git
+- runs fastQC, multiQC, trimgalore, bowtie2, subread FeatureCounts
+DEseq2 was run outside of pipeline with
+./dimA_RNA_seq_2025/miltiple_comparisons.R
+
+
   
 ## Fig 1A. Pylogentic species tree 
 - /Users/jonathanwinkelman/Trestle_long-term-storage/Mukherjee_lab/mapping_PA14_20480_to_Pseudomonas/
