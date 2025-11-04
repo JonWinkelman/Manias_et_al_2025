@@ -1,0 +1,15 @@
+Status	./results/bowtie2/dimA_1_dark_T1.bam
+Assigned	35188193
+Unassigned_Unmapped	473002
+Unassigned_Read_Type	0
+Unassigned_Singleton	0
+Unassigned_MappingQuality	0
+Unassigned_Chimera	0
+Unassigned_FragmentLength	0
+Unassigned_Duplicate	0
+Unassigned_MultiMapping	0
+Unassigned_Secondary	0
+Unassigned_NonSplit	0
+Unassigned_NoFeatures	7384556
+Unassigned_Overlapping_Length	172239
+Unassigned_Ambiguity	819792

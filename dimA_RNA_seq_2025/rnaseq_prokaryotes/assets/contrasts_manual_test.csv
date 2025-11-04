@@ -1,0 +1,7 @@
+,variable,up,reference
+0,group,wt_light,wt_dark
+1,group,dimA_light,dimA_dark
+2,group,dimA_light,wt_light
+3,group,dimA_dark,wt_dark
+4,group,bphP_light,wt_light
+5,group,dimA_light,bphP_light

@@ -1,0 +1,15 @@
+aws s3 cp --recursive s3://lp-arg-rnaseq-and-tnseq/rnaseq/references/ ./references/ --include="*"
+
+cat *.fasta > combined_chrom_all_plasmids.fasta
+
+
+# run from lp-arg-rnaseq-and-tnseq top directory
+sudo nextflow run /home/bradf/projects/rnaseq_prokaryotes/main.nf \
+    -c /home/bradf/projects/lp-arg-rnaseq-and-tnseq/rnaseq/arg_rnaseq_2023.config \
+    -profile trestle \
+    --input   's3://lp-arg-rnaseq-and-tnseq/rnaseq/assets/samplesheet_all_replicates.csv' \
+    --outdir  's3://lp-arg-rnaseq-and-tnseq/rnaseq/results_2023/' \
+    --gff     's3://lp-arg-rnaseq-and-tnseq/rnaseq/references/acinetobacter_baumannii_atcc_17978_mff_cp012004.gff' \
+    --fasta   's3://lp-arg-rnaseq-and-tnseq/rnaseq/references/acinetobacter_baumannii_atcc_17978_mff_cp012004.fasta' \
+    -work-dir 's3://lp-arg-rnaseq-and-tnseq/rnaseq/work_2023/' \
+    -resume

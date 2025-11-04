@@ -1,0 +1,5 @@
+Sample	Reads passing filters
+wt_1_light_T1_1	100000.0
+wt_1_light_T1_2	100000.0
+wt_2_light_T1_1	100000.0
+wt_2_light_T1_2	100000.0

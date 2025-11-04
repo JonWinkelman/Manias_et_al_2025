@@ -1,0 +1,5 @@
+Sample	Top over-represented sequence	Sum of remaining over-represented sequences
+wt_1_light_T1_1	6.277000000000001	4.4019999999999975
+wt_1_light_T1_2	6.984	4.523999999999996
+wt_2_light_T1_1	4.008	4.791999999999999
+wt_2_light_T1_2	3.9219999999999997	4.730999999999999

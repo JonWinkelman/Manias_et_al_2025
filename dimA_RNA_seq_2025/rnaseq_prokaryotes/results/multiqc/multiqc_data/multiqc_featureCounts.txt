@@ -1,0 +1,3 @@
+Sample	Total	Assigned	Unassigned_Unmapped	Unassigned_Read_Type	Unassigned_Singleton	Unassigned_MappingQuality	Unassigned_Chimera	Unassigned_FragmentLength	Unassigned_Duplicate	Unassigned_MultiMapping	Unassigned_Secondary	Unassigned_NonSplit	Unassigned_NoFeatures	Unassigned_Overlapping_Length	Unassigned_Ambiguity	percent_assigned
+wt_1_light_T1	90946	71779	1672	0	0	0	0	0	0	0	0	0	17495	0	0	78.92485650825765
+wt_2_light_T1	93970	73652	1950	0	0	0	0	0	0	0	0	0	18368	0	0	78.378205810365

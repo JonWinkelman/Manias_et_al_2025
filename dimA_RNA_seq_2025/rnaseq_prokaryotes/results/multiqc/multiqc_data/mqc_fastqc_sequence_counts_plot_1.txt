@@ -1,0 +1,5 @@
+Sample	Unique Reads	Duplicate Reads
+wt_1_light_T1_1	73635.0	26365.0
+wt_1_light_T1_2	71620.0	28380.0
+wt_2_light_T1_1	74620.0	25380.0
+wt_2_light_T1_2	72646.0	27354.0

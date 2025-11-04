@@ -1,0 +1,3 @@
+Sample	Assigned	Unassigned: Unmapped	Unassigned: No Features
+wt_1_light_T1	71779.0	1672.0	17495.0
+wt_2_light_T1	73652.0	1950.0	18368.0

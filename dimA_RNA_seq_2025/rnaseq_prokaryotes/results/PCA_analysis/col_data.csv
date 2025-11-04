@@ -1,0 +1,13 @@
+sample,condition
+wt_1_light,wt_light
+wt_2_light,wt_light
+wt_3_light,wt_light
+wt_1_dark,wt_dark
+wt_2_dark,wt_dark
+wt_3_dark,wt_dark
+dimA_1_dark,dimA_dark
+dimA_2_dark,dimA_dark
+dimA_3_dark,dimA_dark
+dimA_1_light,dimA_light
+dimA_2_light,dimA_light
+dimA_3_light,dimA_light

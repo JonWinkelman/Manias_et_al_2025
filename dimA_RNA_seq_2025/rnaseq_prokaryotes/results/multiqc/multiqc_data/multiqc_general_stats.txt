@@ -1,0 +1,7 @@
+Sample	featureCounts_mqc-generalstats-featurecounts-percent_assigned	featureCounts_mqc-generalstats-featurecounts-Assigned	Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate	Cutadapt_mqc-generalstats-cutadapt-percent_trimmed	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-median_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+wt_1_light_T1	78.92485650825765	71779	97.89							
+wt_1_light_T1_1				11.781158415841585	26.36500000000001	64.0	101.0	101	36.36363636363637	100000.0
+wt_1_light_T1_2				4.893722772277228	28.38000000000001	65.0	101.0	101	36.36363636363637	100000.0
+wt_2_light_T1	78.378205810365	73652	97.65							
+wt_2_light_T1_1				9.37238613861386	25.381	63.0	101.0	101	27.27272727272727	100000.0
+wt_2_light_T1_2				5.053524752475248	27.35499999999999	63.0	101.0	101	36.36363636363637	100000.0

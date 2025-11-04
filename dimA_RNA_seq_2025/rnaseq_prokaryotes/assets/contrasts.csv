@@ -1,0 +1,8 @@
+id,variable,reference,target,blocking
+wt_light-vs-wt_dark,condition,wt_dark,wt_light,
+dimA_light-vs-dimA_dark,condition,dimA_dark,dimA_light,
+dimA_light-vs-wt_light,condition,wt_light,dimA_light,
+dimA_dark-vs-wt_dark,condition,wt_dark,dimA_dark,
+bphP_light-vs-wt_light,condition,wt_light,bphP_light,
+dimA_light-vs-bphP_light,condition,bphP_light,dimA_light,
+bphP_light-vs-wt_dark,condition,wt_dark,bphP_light,

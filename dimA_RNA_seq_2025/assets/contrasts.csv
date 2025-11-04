@@ -1,0 +1,6 @@
+id,variable,reference,target,blocking
+wt_light_dark,condition,wt_dark,wt_light,
+dimA_light_dark,condition,dimA_dark,dimA_light,
+wt_dimA_light,condition,wt_light,dimA_light,
+wt_dimA_dark,condition,wt_dark,dimA_dark,
+wt_bphP_light,condition,wt_light,bphP_light,

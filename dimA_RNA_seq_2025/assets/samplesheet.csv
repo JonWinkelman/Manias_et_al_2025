@@ -1,0 +1,16 @@
+sample,fastq_1,fastq_2,strandedness,condition,replicate
+wt_1_light,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1705-1_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1705-1_R2.fastq.gz,forward,wt_light,1
+wt_2_light,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1705-2_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1705-2_R2.fastq.gz,forward,wt_light,2
+wt_3_light,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1705-3_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1705-3_R2.fastq.gz,forward,wt_light,3
+wt_1_dark,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1705-1_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1705-1_R2.fastq.gz,forward,wt_dark,1
+wt_2_dark,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1705-2_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1705-2_R2.fastq.gz,forward,wt_dark,2
+wt_3_dark,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1705-3_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1705-3_R2.fastq.gz,forward,wt_dark,3
+dimA_1_dark,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1124-1_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1124-1_R2.fastq.gz,forward,dimA_dark,1
+dimA_2_dark,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1124-2_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1124-2_R2.fastq.gz,forward,dimA_dark,2
+dimA_3_dark,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1124-3_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-D1124-3_R2.fastq.gz,forward,dimA_dark,3
+dimA_1_light,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1124-1_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1124-1_R2.fastq.gz,forward,dimA_light,1
+dimA_2_light,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1124-2_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1124-2_R2.fastq.gz,forward,dimA_light,2
+dimA_3_light,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1124-3_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1124-3_R2.fastq.gz,forward,dimA_light,3
+bphP_1,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1903-1_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1903-1_R2.fastq.gz,forward,bphP,1
+bphP_2,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1903-2_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1903-2_R2.fastq.gz,forward,bphP,2
+bphP_3,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1903-3_R1.fastq.gz,s3://mukherjee-lab/dimA_RNA_seq_2025/raw/241213-Sampriti-Lab-FR1903-3_R2.fastq.gz,forward,bphP,3

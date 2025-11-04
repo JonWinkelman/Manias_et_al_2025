@@ -1,0 +1,3 @@
+Sample	total_reads	paired_total	paired_aligned_none	paired_aligned_one	paired_aligned_multi	paired_aligned_discord_one	paired_aligned_mate_none	paired_aligned_mate_one	paired_aligned_mate_multi	overall_alignment_rate	paired_aligned_mate_multi_halved	paired_aligned_mate_none_halved	paired_aligned_mate_one_halved
+wt_1_light_T1	90946	90946	2317	85543	3086	156	3829	463	30	97.89	15.0	1914.5	231.5
+wt_2_light_T1	93970	93970	2676	87813	3481	203	4408	491	47	97.65	23.5	2204.0	245.5
