@@ -1,0 +1,81 @@
+,Type,Strain ID,Species,Strain,Assembly level,Host taxonomic name,Host common name,Host taxonomy ID,Host Disease,Isolation Source,Assembly name,Assembly version status,Scaffold N50,Contig count,Contig N50
+GCF_001721765.1,clinical,3999,Pseudomonas aeruginosa,PA_D2,Complete Genome,Homo sapiens,human,9606.0,Ventilator associated pneumonia,Sputum; Early isolate from VAP patient 2,ASM172176v1,latest,,,
+GCF_001721825.1,clinical,4002,Pseudomonas aeruginosa,PA_D22,Complete Genome,Homo sapiens,human,9606.0,Ventilator associated pneumonia,Sputum; Late isolate from VAP patient 3,ASM172182v1,latest,,,
+GCF_002205355.1,clinical,6938,Pseudomonas aeruginosa,Pa127,Complete Genome,Homo sapiens,human,9606.0,ventilator-associated pneumonia,bronchial washing,ASM220535v1,latest,,,
+GCF_003369755.1,clinical,7124,Pseudomonas aeruginosa,Y82,Complete Genome,Homo sapiens,human,9606.0,pneumonia,sputum,ASM336975v1,latest,,,
+GCF_004355145.1,clinical,10830,Pseudomonas aeruginosa,AES1R,Complete Genome,Homo sapiens,human,9606.0,cystic fibrosis,sputum,ASM435514v1,latest,6373893.0,,6373893.0
+GCF_001679685.1,clinical,3995,Pseudomonas aeruginosa,PA121617,Complete Genome,Homo sapiens,human,9606.0,Respiratory disease,sputum,ASM167968v1,latest,,,
+GCF_000816985.1,clinical,3096,Pseudomonas aeruginosa,F22031,Complete Genome,Homo sapiens,human,9606.0,cancer,pubic bone,ASM81698v1,latest,,,
+GCF_002205335.1,clinical,6035,Pseudomonas aeruginosa,Pa84,Complete Genome,Homo sapiens,human,9606.0,ventilator-associated pneumonia,bronchial washing,ASM220533v1,latest,,,
+GCF_002946935.1,clinical,6730,Pseudomonas aeruginosa,F5677,Complete Genome,Homo sapiens,human,9606.0,cancer,urine,ASM294693v1,latest,,,
+GCF_002205375.1,clinical,6732,Pseudomonas aeruginosa,Pa1242,Complete Genome,Homo sapiens,human,9606.0,Chiari malformation,blood,ASM220537v1,latest,,,
+GCF_003369775.1,clinical,6550,Pseudomonas aeruginosa,Y31,Complete Genome,Homo sapiens,human,9606.0,pneumonia,sputum,ASM336977v1,latest,,,
+GCF_002192495.1,clinical,6334,Pseudomonas aeruginosa,Pa58,Complete Genome,Homo sapiens,human,9606.0,ventilator-associated pneumonia,bronchial washing,ASM219249v1,latest,,,
+GCF_002192475.1,clinical,6251,Pseudomonas aeruginosa,Pa124,Complete Genome,Homo sapiens,human,9606.0,ventilator-associated pneumonia,bronchial washing,ASM219247v1,latest,,,
+GCF_002085605.1,clinical,6088,Pseudomonas aeruginosa,RIVM-EMC2982,Complete Genome,Homo sapiens,human,9606.0,unavailable,unavailable,ASM208560v1,latest,,,
+GCF_001447845.1,clinical,3846,Pseudomonas aeruginosa,VA-134,Complete Genome,Homo sapiens,human,9606.0,burn,Skin wound of burn human patient,ASM144784v1,latest,,,
+GCF_001722025.1,clinical,4005,Pseudomonas aeruginosa,PA_D5,Complete Genome,Homo sapiens,human,9606.0,Ventilator associated pneumonia,Sputum; Early isolate from VAP patient 3,ASM172202v1,latest,,,
+GCF_002104595.1,clinical,7104,Pseudomonas aeruginosa,PASGNDM699,Complete Genome,Homo sapiens,human,9606.0,N.A.,sputum,ASM210459v1,latest,,,
+GCF_001721785.1,clinical,4000,Pseudomonas aeruginosa,PA_D9,Complete Genome,Homo sapiens,human,9606.0,Ventilator associated pneumonia,Sputum; Late isolate from VAP patient 1,ASM172178v1,latest,,,
+GCF_004355125.1,clinical,10829,Pseudomonas aeruginosa,AES1M,Complete Genome,Homo sapiens,human,9606.0,cystic fibrosis,sputum,ASM435512v1,latest,6373139.0,,6373139.0
+GCF_002085755.1,clinical,7221,Pseudomonas aeruginosa,E6130952,Complete Genome,Homo sapiens,human,9606.0,respiratory failure,sputum,ASM208575v1,latest,,,
+GCF_000510305.1,clinical,215,Pseudomonas aeruginosa,SCV20265,Complete Genome,Homo sapiens,human,9606.0,cystic fibrosis,lung,ASM51030v1,latest,6725183.0,,6725183.0
+GCF_000508765.1,clinical,489,Pseudomonas aeruginosa,LES431,Complete Genome,Homo sapiens,human,9606.0,healthy,isolated from a non-CF parent of a CF patient,ASM50876v1,latest,6550070.0,,6550070.0
+GCF_003369735.1,clinical,7172,Pseudomonas aeruginosa,Y89,Complete Genome,Homo sapiens,human,9606.0,pneumonia,sputum,ASM336973v1,latest,,,
+GCF_003206535.1,clinical,7082,Pseudomonas aeruginosa,K34-7,Complete Genome,Homo sapiens,human,9606.0,unknown,tracheal secretions,ASM320653v1,latest,,,
+GCF_003028335.1,clinical,6456,Pseudomonas aeruginosa,MRSN12280,Complete Genome,Homo sapiens,human,9606.0,Wound,Sacrum,ASM302833v1,latest,,,
+GCF_002411865.3,clinical,9520,Pseudomonas aeruginosa,97,Complete Genome,Homo sapiens,human,9606.0,UTI,urine,ASM241186v3,latest,6925889.0,,6925889.0
+GCF_000496455.2,clinical,3915,Pseudomonas aeruginosa,DH01,Complete Genome,Homo sapiens,human,9606.0,assymptomatic carrier,nose,ASM49645v2,latest,,,
+GCF_000829885.1,clinical,2621,Pseudomonas aeruginosa,FRD1,Complete Genome,Homo sapiens,human,9606.0,cystic fibrosis,sputum,ASM82988v1,latest,,,
+GCF_011466835.1,clinical,12907,Pseudomonas aeruginosa,CF39S,Complete Genome,Homo sapiens,human,9606.0,Cystic Fibrosis,lung,ASM1146683v1,latest,,,
+GCF_001721805.1,clinical,4001,Pseudomonas aeruginosa,PA_D16,Complete Genome,Homo sapiens,human,9606.0,Ventilator associated pneumonia,Sputum; Early isolate from VAP patient 4,ASM172180v1,latest,,,
+GCF_001721845.1,clinical,4003,Pseudomonas aeruginosa,PA_D25,Complete Genome,Homo sapiens,human,9606.0,46,Sputum; Late isolate from VAP patient 4,ASM172184v1,latest,,,
+GCF_000473745.2,clinical,230,Pseudomonas aeruginosa,VRFPA04,Complete Genome,Homo sapiens,human,9606.0,keratitis,corneal button,ASM47374v3,latest,6818030.0,,6818030.0
+GCF_002208645.1,clinical,5865,Pseudomonas aeruginosa,Pa1207,Complete Genome,Homo sapiens,human,9606.0,Comunity-adquired pneumonia,blood,ASM220864v1,latest,,,
+GCF_001722045.1,clinical,4006,Pseudomonas aeruginosa,PA_D21,Complete Genome,Homo sapiens,human,9606.0,Ventilator associated pneumonia,Sputum; Late isolate from VAP patient 2,ASM172204v1,latest,,,
+GCF_000014625.1,clinical,109,Pseudomonas aeruginosa,UCBPP-PA14,Complete Genome,Homo sapiens,human,9606.0,burn,burn wound,ASM1462v1,latest,6537648.0,,6537648.0
+GCF_002104615.1,clinical,6255,Pseudomonas aeruginosa,PASGNDM345,Complete Genome,Homo sapiens,human,9606.0,N.A.,sputum,ASM210461v1,latest,,,
+GCF_001721745.1,clinical,3998,Pseudomonas aeruginosa,PA_D1,Complete Genome,Homo sapiens,human,9606.0,Ventilator associated pneumonia,Sputum; Early isolate from VAP patient 1,ASM172174v1,latest,,,
+GCF_000271365.1,clinical,174,Pseudomonas aeruginosa,DK2,Complete Genome,Homo sapiens,human,9606.0,cystic fibrosis,sputum,ASM27136v1,latest,6402658.0,,6402658.0
+GCF_001547955.1,clinical,3921,Pseudomonas aeruginosa,NCGM257,Complete Genome,Homo sapiens,human,9606.0,urinary tract infection,Midstream urine,ASM154795v1,latest,,,
+GCF_001750705.1,environmental,4011,Pseudomonas aeruginosa,FA-HZ1,Complete Genome,,,,,wastewater,ASM175070v1,latest,,,
+GCF_022453825.1,environmental,16932,Pseudomonas aeruginosa,LS.2c,Complete Genome,,,,,polyester fabric recovered from leaf litter,ASM2245382v1,latest,6349540.0,,6349540.0
+GCF_008033725.1,environmental,11967,Pseudomonas aeruginosa,IMP67,Complete Genome,,,,,crude oil,ASM803372v1,latest,6501414.0,,6501414.0
+GCF_003060845.1,environmental,7002,Pseudomonas aeruginosa,JB2,Complete Genome,,,,,soil,ASM306084v1,latest,,,
+GCF_026727715.1,environmental,22806,Pseudomonas aeruginosa,B1.2,Complete Genome,,,,,plastic surface of detergent compartment of a washing machine,ASM2672771v1,latest,6387430.0,,6387430.0
+GCF_016105885.1,environmental,15933,Pseudomonas aeruginosa,TJ2014-049,Complete Genome,,,,,water,ASM1610588v1,latest,6660255.0,,6660255.0
+GCF_008033745.1,environmental,11968,Pseudomonas aeruginosa,IMP68,Complete Genome,,,,,crude oil,ASM803374v1,latest,6481697.0,,6481697.0
+GCF_024760445.1,environmental,22551,Pseudomonas aeruginosa,PLL01,Complete Genome,,,,,groundwater,ASM2476044v1,latest,6258289.0,,6258289.0
+GCF_026727695.1,environmental,22804,Pseudomonas aeruginosa,B2.1,Complete Genome,,,,,plastic surface of detergent compartment of a washing machine,ASM2672769v1,latest,6387416.0,,6387416.0
+GCF_002237425.1,environmental,6075,Pseudomonas aeruginosa,Ocean-1175,Complete Genome,,,,,Open Ocean,ASM223742v1,latest,,,
+GCF_016743035.1,environmental,15952,Pseudomonas aeruginosa,A39-1,Complete Genome,,,,,soil,ASM1674303v1,latest,6374121.0,,6374121.0
+GCF_026727755.1,environmental,22046,Pseudomonas aeruginosa,C4.2,Complete Genome,,,,,rubber door sealing of a washing machine,ASM2672775v1,latest,7345639.0,,7345639.0
+GCF_022569935.1,environmental,17026,Pseudomonas aeruginosa,H15,Complete Genome,,,,,River,ASM2256993v1,latest,6836779.0,,6836779.0
+GCF_025452135.1,environmental,23171,Pseudomonas aeruginosa,PA-AUTBAM,Complete Genome,,,,,Fish pond,ASM2545213v1,latest,6264404.0,,6264404.0
+GCF_012971705.1,environmental,15464,Pseudomonas aeruginosa,LYT4,Complete Genome,,,,,tung meal,ASM1297170v1,latest,6680465.0,,6680465.0
+GCF_001874465.1,environmental,5627,Pseudomonas aeruginosa,isolate B10W,Complete Genome,,,,,wastewater,ASM187446v1,latest,,,
+GCF_022569995.1,environmental,17029,Pseudomonas aeruginosa,H09,Complete Genome,,,,,River,ASM2256999v1,latest,6420456.0,,6420456.0
+GCF_016105665.1,environmental,15932,Pseudomonas aeruginosa,TJ2019-017,Complete Genome,,,,,water,ASM1610566v1,latest,6478778.0,,6478778.0
+GCF_030369855.1,environmental,23113,Pseudomonas aeruginosa,WS27-3,Complete Genome,,,,,environmental,ASM3036985v1,latest,6457547.0,,6457547.0
+GCF_026727735.1,environmental,22800,Pseudomonas aeruginosa,C1.3,Complete Genome,,,,,plastic surface of detergent compartment of a washing machine,ASM2672773v1,latest,7083311.0,,7083311.0
+GCF_009648875.1,environmental,12043,Pseudomonas aeruginosa,CFSAN084950,Complete Genome,,,,,Arugula,ASM964887v1,latest,6441924.0,,6441924.0
+GCF_000504045.1,environmental,210,Pseudomonas aeruginosa,MTB-1,Complete Genome,,,,,t-HCH contaminated soil,ASM50404v1,latest,6580038.0,,6580038.0
+GCF_000524595.1,environmental,2501,Pseudomonas aeruginosa,YL84,Complete Genome,,,,,compost,ASM52459v1,latest,6433441.0,,6433441.0
+GCF_009911735.1,environmental,12124,Pseudomonas aeruginosa,RD1-3,Complete Genome,,,,,landfill,ASM991173v1,latest,6397159.0,,6397159.0
+GCF_023272755.1,environmental,17116,Pseudomonas aeruginosa,8D,Complete Genome,,,,,oil well produced fluid,ASM2327275v1,latest,6473527.0,,6473527.0
+GCF_017900915.1,environmental,16069,Pseudomonas aeruginosa,LICME WGH-6,Complete Genome,,,,,Soil land,ASM1790091v1,latest,6602988.0,,6602988.0
+GCF_002223805.1,environmental,6318,Pseudomonas aeruginosa,L10,Complete Genome,,,,,Halobiotic reed,ASM222380v1,latest,,,
+GCF_030388285.1,environmental,22364,Pseudomonas aeruginosa,LG2-2,Complete Genome,,,,,swine carcass composts,ASM3038828v1,latest,6343532.0,,6343532.0
+GCF_009676885.1,environmental,12050,Pseudomonas aeruginosa,KRP1,Complete Genome,,,,,methanogenic sludge from a potato processing plant,ASM967688v1,latest,6737396.0,,6737396.0
+GCF_002237405.1,environmental,5897,Pseudomonas aeruginosa,Ocean-1155,Complete Genome,,,,,Open Ocean,ASM223740v1,latest,,,
+GCF_001722005.2,environmental,5583,Pseudomonas aeruginosa,DN1,Complete Genome,,,,,soil,ASM172200v2,latest,,,
+GCF_008033765.1,environmental,11969,Pseudomonas aeruginosa,IMP66,Complete Genome,,,,,crude oil,ASM803376v1,latest,6486336.0,,6486336.0
+GCF_014854655.1,environmental,15859,Pseudomonas aeruginosa,JT86,Complete Genome,,,,,soil,ASM1485465v1,latest,6520277.0,,6520277.0
+GCF_024397355.1,environmental,17309,Pseudomonas aeruginosa,D-2,Complete Genome,,,,,soil,ASM2439735v1,latest,6364446.0,,6364446.0
+GCF_024266805.1,environmental,17305,Pseudomonas aeruginosa,F13,Complete Genome,,,,,soil,ASM2426680v1,latest,6478686.0,,6478686.0
+GCF_021249245.1,environmental,16677,Pseudomonas aeruginosa,Pa608,Complete Genome,,,,,soil,ASM2124924v1,latest,6376164.0,,6376164.0
+GCF_001606045.1,environmental,3988,Pseudomonas aeruginosa,N17-1,Complete Genome,,,,,soil,ASM160604v1,latest,,,
+GCF_030028275.1,environmental,23020,Pseudomonas aeruginosa,SF416,Complete Genome,,,,,soil,ASM3002827v1,latest,6423038.0,,6423038.0
+GCF_022569895.1,environmental,17024,Pseudomonas aeruginosa,H17,Complete Genome,,,,,Pepper plant,ASM2256989v1,latest,6349913.0,,6349913.0
+GCF_016105505.1,environmental,15931,Pseudomonas aeruginosa,TJ2019-022,Complete Genome,,,,,water,ASM1610550v1,latest,7157191.0,,7157191.0
+GCF_022453765.1,environmental,16931,Pseudomonas aeruginosa,HU20,Complete Genome,,,,,soil,ASM2245376v1,latest,6321272.0,,6321272.0

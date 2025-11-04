@@ -1,0 +1,15 @@
+## These are the result of a blast search done by Sampriti/Dimitrios using the P. Chloraphis 
+## rBlast positive result as a query.
+
+1. GCF_024168455.1  https://www.ncbi.nlm.nih.gov/protein/WP_253559225.1?report=genbank&log$=prottop&blast_rank=60&RID=ZJX9EXSK013
+2. GCF_029350995.1  https://www.ncbi.nlm.nih.gov/protein/WP_077934638.1?report=genbank&log$=prottop&blast_rank=62&RID=ZJX9EXSK013
+3. GCF_023241665.1  https://www.ncbi.nlm.nih.gov/protein/WP_268261674.1?report=genbank&log$=prottop&blast_rank=68&RID=ZJX9EXSK013
+4. GCA_902497625.1. https://www.ncbi.nlm.nih.gov/protein/WP_150579783.1?report=genbank&log$=prottop&blast_rank=83&RID=ZJX9EXSK013
+5. GCF_028657095.1. https://www.ncbi.nlm.nih.gov/protein/WP_273924074.1?report=genbank&log$=prottop&blast_rank=55&RID=ZJX9EXSK013
+6. GCF_044900625.1  https://www.ncbi.nlm.nih.gov/protein/WP_404697551.1?report=genbank&log$=prottop&blast_rank=175&RID=ZJX9EXSK013
+7. GCF_045062265.1  https://www.ncbi.nlm.nih.gov/protein/WP_087273078.1?report=genbank&log$=prottop&blast_rank=152&RID=ZJX9EXSK013
+8. GCF_001698815.1  https://www.ncbi.nlm.nih.gov/protein/WP_065832684.1?report=genbank&log$=prottop&blast_rank=155&RID=ZJX9EXSK013
+9. GCF_014357575.1  https://www.ncbi.nlm.nih.gov/protein/WP_187522871.1?report=genbank&log$=prottop&blast_rank=186&RID=ZJX9EXSK013
+10. GCF_022790535.1 https://www.ncbi.nlm.nih.gov/protein/WP_243246698.1?report=genbank&log$=prottop&blast_rank=179&RID=ZJZGB1G9013
+11. GCF_900103875.1 https://www.ncbi.nlm.nih.gov/protein/WP_090187081.1?report=genbank&log$=prottop&blast_rank=201&RID=ZJZGB1G9013	
+
