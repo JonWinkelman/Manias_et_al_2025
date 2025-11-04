@@ -1,6 +1,6 @@
 # Roadmap for data in DimA manuscript 2025
 ## Fig 1D,E. RNAseq volcano plots and venn diagrams
-- pipeline for running RNAseq
+- pipeline for running RNAseq  
   https://github.com/trestle-biosciences/rnaseq_prokaryotes.git
   
 ## Fig 1A. Pylogentic species tree 
