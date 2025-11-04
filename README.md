@@ -1,11 +1,21 @@
-# Roadmap for data in DimA manuscript 2025
-## Fig 1D,E. RNAseq volcano plots and venn diagrams
-- pipeline for running RNAseq 
-- ./dimA_RNA_seq_2025/rnaseq_prokaryotes
+# Roadmap for bioinformatic data in DimA manuscript 2025
+## Fig 1D,E. RNAseq volcano plots and venn diagrams  
+### RNAseq
+- pipeline for running RNAseq  
+- ./dimA_RNA_seq_2025/rnaseq_prokaryotes   
   https://github.com/trestle-biosciences/rnaseq_prokaryotes.git
-- runs fastQC, multiQC, trimgalore, bowtie2, subread FeatureCounts
-DEseq2 was run outside of pipeline with
+- pipeline can be run here:
+- ./dimA_RNA_seq_2025/rnaseq_prokaryotes/run_rnaseq_prokaryotes.ipynb
+- runs fastQC, multiQC, trimgalore, bowtie2, subread FeatureCounts  
+### DEseq2    
 ./dimA_RNA_seq_2025/miltiple_comparisons.R
+### Volcano plots and venn diagrams 
+- pipeline can be run here
+  ./dimA_RNA_seq_2025/rnaseq_prokaryotes/volcano_venn_diagrams.ipynb
+### Results  
+- ./results/analysis/
+
+
 
 
   
