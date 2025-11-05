@@ -5,6 +5,8 @@
 ##### Create conda environment
 `conda env create -f environment.yml`  
 `conda activate mukherjee`  
+Analysis run on Apple M4 Max, 36 GB memory, macOS sequoia 15.5  
+`colima start --arch aarch64 --cpu 8 --memory 16'
 ### RNAseq  
 ##### Fig2D,E  
 - raw RNAseq data here:
