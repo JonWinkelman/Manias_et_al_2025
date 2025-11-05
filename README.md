@@ -1,4 +1,6 @@
-# Bioinformatic data in DimA manuscript 2025
+# Bioinformatic data in   
+**A light-induced microprotein triggers regulated intramembrane proteolysis to promote photo-sensing in a pathogenic bacterium**  
+
 ## Fig 1D,E. RNAseq volcano plots and venn diagrams  
 ### RNAseq
 - raw RNAseq data here:
