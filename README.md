@@ -21,15 +21,19 @@
 <img src="images/Fig2D-E.png" width="400">  
 
 ## Fig 4A. Annotated species tree  
-1. Run `reciprocal_blast.ipynb` to download proteomes and generate reciprocal blast best hits
-2. Run `annotated_Pseudomonas_tree.ipynb`
-   to:   
-   - generate a species tree via 120 concatenated aligned proteins via Parks et al 2018 bac120 method.   
+1. Run `reciprocal_blast.ipynb`
+   - download proteomes from NCBI datasets
+   - generate reciprocal blast best hits
+3. Run `annotated_Pseudomonas_tree.ipynb`
+   - generate a species tree with jw_utils/make_bac120_tree  (similar to Parks et al 2018)
+     - hmmsearch and hmmalign to make 120 concatenated aligned proteins
+     - Run fasttree on concatenated alignme   bac120 method.   
    - make datasets files for annotating species tree in iTOL
         
 <img src="images/Fig4A.png" width=500>   
 
 #### PCA plot:
+- from DEseq2 output above:  
 - Run `dimA_RNA_seq_2025/rnaseq_prokaryotes/PCA.ipynb`   
   Then   
   `dimA_RNA_seq_2025/rnaseq_prokaryotes/PCA_analysis.R`   
