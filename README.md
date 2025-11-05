@@ -1,5 +1,5 @@
-# Bioinformatic data in   
-**A light-induced microprotein triggers regulated intramembrane proteolysis to promote photo-sensing in a pathogenic bacterium**  
+## Bioinformatic data in   
+## **A light-induced microprotein triggers regulated intramembrane proteolysis to promote photo-sensing in a pathogenic bacterium**  
 
 ## Fig 1D,E. RNAseq volcano plots and venn diagrams  
 ### RNAseq
