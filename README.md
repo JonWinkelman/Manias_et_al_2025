@@ -8,7 +8,7 @@
 - ./dimA_RNA_seq_2025/rnaseq_prokaryotes/run_rnaseq_prokaryotes.ipynb
 - runs fastQC, multiQC, trimgalore, bowtie2, subread FeatureCounts  
 ### DEseq2    
-./dimA_RNA_seq_2025/miltiple_comparisons.R
+./dimA_RNA_seq_2025/multiple_comparisons.R
 ### Volcano plots and venn diagrams 
 - pipeline can be run here
   ./dimA_RNA_seq_2025/rnaseq_prokaryotes/volcano_venn_diagrams.ipynb
