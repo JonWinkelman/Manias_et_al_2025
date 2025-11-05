@@ -1,0 +1,33 @@
+name: mukherjee
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - python=3.11
+  - jupyterlab
+  - tqdm
+  - ete3
+  - biopython
+  - ncbi-datasets-cli
+  - hmmer
+  - fasttree
+  - scikit-learn
+  - matplotlib
+  - logomaker
+  - statsmodels
+  - pyqt
+  - cd-hit
+  - ncbi-genome-download
+  - muscle
+  - blast
+  - iqtree
+  - mafft
+  - orthofinder=2.5.5
+  - generax
+  - viennarna
+  - pandoc
+  - tectonic
+  - voila
+prefix: /Users/jonathanwinkelman/miniconda3/envs/mukherjee
