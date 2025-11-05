@@ -13,7 +13,7 @@
   `dimA_RNA_seq_2025/rnaseq_prokaryotes`
 - pipeline can be run here:    
  `dimA_RNA_seq_2025/rnaseq_prokaryotes/run_rnaseq_prokaryotes.ipynb`
-	- This notebook can't be run by users who do not have read/write access to AWS S3 buckets within.     
+	- **This notebook can't be run by users who do not have read/write access to AWS S3 buckets within.**    
 - runs fastQC, multiQC, trimgalore, bowtie2, subread FeatureCounts   
 ### DEseq2    
 `dimA_RNA_seq_2025/multiple_comparisons.R`   
