@@ -3,7 +3,7 @@
 
 ---
 
-## 🧬 Environment Setup  
+## Environment Setup  
 
 **Create and activate the conda environment:**  
 
@@ -16,12 +16,13 @@ conda activate mukherjee
 
 ---
 
-## 🧫 RNA-seq Analysis  
+## RNA-seq Analysis  
 
 **Primary pipeline:**  
 `dimA_RNA_seq_2025/rnaseq_prokaryotes/run_rnaseq_prokaryotes.ipynb`
 
 > ⚠️ This notebook requires read/write access to internal AWS S3 buckets and cannot be executed by external users.
+> ⚠️ Raw data available in the SRA and the Nextflow pipeline here describes all of the tools used
 
 **Implements:**  
 - `FastQC`, `MultiQC`, `Trim Galore`  
@@ -42,7 +43,7 @@ conda activate mukherjee
 
 ---
 
-## 🌳 Phylogenetic & Comparative Genomics  
+## Phylogenetic & Comparative Genomics  
 
 **Fig 4A – Annotated species tree**
 
@@ -79,7 +80,7 @@ From DESeq2 output:
 
 ---
 
-## 📁 Reproducibility & Data Availability  
+##  Reproducibility & Data Availability  
 
 This repository contains all code necessary to reproduce the analyses described in *Manias et al., 2025*.  
 However, due to restricted data access, notebooks requiring AWS S3 read/write permissions cannot be executed publicly.  
