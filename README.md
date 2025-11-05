@@ -24,7 +24,7 @@
 
 #### PCA plot:
 	`results/analysis/PCA_plot.pdf`
-<img="images/FigS3.png" width=300>
+<img src="images/FigS3.png" width=300>
 		
 #### Venn diagrams (2):
 	- ./results/analysis/venn_light_repressed_WTvsDelDimA.pdf
