@@ -14,7 +14,7 @@
   ./dimA_RNA_seq_2025/rnaseq_prokaryotes/volcano_venn_diagrams.ipynb
 ### Results  
 - ./results/analysis/
-
+<img src="images/Fig2D-E.png" width="400">
 
 
 
