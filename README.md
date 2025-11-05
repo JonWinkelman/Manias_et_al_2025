@@ -1,6 +1,8 @@
-# Roadmap for bioinformatic data in DimA manuscript 2025
+# Bioinformatic data in DimA manuscript 2025
 ## Fig 1D,E. RNAseq volcano plots and venn diagrams  
 ### RNAseq
+- raw RNAseq data here:
+  
 - pipeline for running RNAseq   
   `dimA_RNA_seq_2025/rnaseq_prokaryotes`  
   https://github.com/trestle-biosciences/rnaseq_prokaryotes.git    
