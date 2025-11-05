@@ -30,4 +30,6 @@ dependencies:
   - pandoc
   - tectonic
   - voila
+  - nextflow
+  - fq
 prefix: /Users/jonathanwinkelman/miniconda3/envs/mukherjee
