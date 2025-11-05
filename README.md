@@ -2,8 +2,8 @@
 ## **A light-induced microprotein triggers regulated intramembrane proteolysis to promote photo-sensing in a pathogenic bacterium**   
 #####  Manias et al., 2025  
 
-###  Bioinformatic data in Fig1D,E, Fig4A, and FigS3.   
 ### RNAseq
+##### Fig2D,E  
 - raw RNAseq data here:
   
 - pipeline for running RNAseq   
