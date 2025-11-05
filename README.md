@@ -5,15 +5,15 @@
 ##### Create conda environment
 `conda env create -f environment.yml`  
 `conda activate mukherjee`  
-### RNAseq
+### RNAseq  
 ##### Fig2D,E  
 - raw RNAseq data here:
   
 - pipeline for running RNAseq   
-  `dimA_RNA_seq_2025/rnaseq_prokaryotes`  
-  https://github.com/trestle-biosciences/rnaseq_prokaryotes.git    
+  `dimA_RNA_seq_2025/rnaseq_prokaryotes`
 - pipeline can be run here:    
- `dimA_RNA_seq_2025/rnaseq_prokaryotes/run_rnaseq_prokaryotes.ipynb`   
+ `dimA_RNA_seq_2025/rnaseq_prokaryotes/run_rnaseq_prokaryotes.ipynb`
+	- This notebook can't be run by users who do not have read/write access to AWS S3 buckets within.     
 - runs fastQC, multiQC, trimgalore, bowtie2, subread FeatureCounts   
 ### DEseq2    
 `dimA_RNA_seq_2025/multiple_comparisons.R`   
