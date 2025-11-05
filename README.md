@@ -1,6 +1,10 @@
  
-## **A light-induced microprotein triggers regulated intramembrane proteolysis to promote photo-sensing in a pathogenic bacterium**   
-#####  Manias et al., 2025  
+## **A light-induced microprotein triggers regulated intramembrane proteolysis to promote photo-sensing in a pathogenic bacterium**
+##### Manias et al., 2025 
+
+##### Create conda environment
+`conda env create -f environment.yml`  
+`conda activate mukherjee`  
 ### RNAseq
 ##### Fig2D,E  
 - raw RNAseq data here:
