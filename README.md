@@ -16,18 +16,18 @@
 `results/analysis/`    
 <img src="images/Fig2D-E.png" width="400">  
 
-## Fig 4A. Annotated species tree 
-- Run `reciprocal_blast.ipynb` to generate reciprocal blast best hits  
+## Fig 4A. Annotated species tree  
+- Run `reciprocal_blast.ipynb` to generate reciprocal blast best hits   
 - with DimA, clin vs environmental, and Genera of interest mapped ot it in itol  
 - Add new species that have putative ortholog to GCF_003851985.1_WP_124309315.1, the P. chloraphis rBlast hit    
-<img src="images/Fig4A.png" width=500>
+<img src="images/Fig4A.png" width=500>   
 
 #### PCA plot:
-- Run `dimA_RNA_seq_2025/rnaseq_prokaryotes/PCA.ipynb`
-  THen
-  `dimA_RNA_seq_2025/rnaseq_prokaryotes/PCA_analysis.R`
-to generate PCA plot.  
-`results/analysis/PCA_plot.pdf`     
+- Run `dimA_RNA_seq_2025/rnaseq_prokaryotes/PCA.ipynb`   
+  Then   
+  `dimA_RNA_seq_2025/rnaseq_prokaryotes/PCA_analysis.R`   
+to generate PCA plot.   
+`results/analysis/PCA_plot.pdf`      
 <img src="images/FigS3.png" width=500>   
 		
 
