@@ -19,42 +19,12 @@
 ## Fig 4A. Annotated species tree 
 - Run `reciprocal_blast.ipynb` to generate reciprocal blast best hits  
 - with DimA, clin vs environmental, and Genera of interest mapped ot it in itol  
-- Add new species that have putative ortholog to GCF_003851985.1_WP_124309315.1, the P. chloraphis rBlast hit  
+- Add new species that have putative ortholog to GCF_003851985.1_WP_124309315.1, the P. chloraphis rBlast hit    
 <img src="images/Fig4A.png" width=500>
 
-#### Labeling:
-- ~~Color change: DymA should be purple (RGB: 173, 7, 27)~~
-- One version with all species names, high-res — for Supplemental
-- One version without names, condensed view — for main figure
-- Output formats:
-- PDF (for high-res, editable)
-- TIFF (300 DPI) (if needed for journals)
-- BphP - 5, 190, 120. #05BE78
-- AlgB - 192, 96, 0. #C06000
-- DimA - 173, 7, 227.  #AD07E3
-- AlgW - 255, 153, 28. #FF991C
-
-## RNA-Seq Visuals (Light/Dark vs. DymA mutant)
-- /Users/jonathanwinkelman/Trestle_long-term-storage/Mukherjee_lab/dimA_RNA_seq_2025/rnaseq_prokaryotes
-#### Volcano plots:
-	- ./results/analysis/volcano_pval_0.05_FC_2
-	- Wild type: dark vs. far-red
- 	- ΔdimA: light vs. dark
-	- Use matching axes and highlight colors
-	- Avoid red/blue confusion — test black/gray/mustard palette
-		- Make the red dots black ~18 min
-		- Keep blue as blue or try mustard color rgb(255,190,15) #ffbe0f
-
-- Send examples on Slack
 #### PCA plot:
-	- ./results/analysis/PCA_plot.pdf
-	- WT dark and FR and ΔdimA dark and FR. 
-		- So, if we have triplicates for each we should have 12 dots on the PCA plot.
-	- For PCA plot: 
-		- WT dark - Dark grey from volcano
-		- dimA dark- dark purple same as Venn 
-		- WT light - mustard yellow from volcano, rgb(255,190,15) #ffbe0f
-		- dimA light- purple of dimA from phylo tree,  - 173, 7, 227.  #AD07E3
+	`results/analysis/PCA_plot.pdf`
+<img="images/FigS3.png" width=300>
 		
 #### Venn diagrams (2):
 	- ./results/analysis/venn_light_repressed_WTvsDelDimA.pdf
