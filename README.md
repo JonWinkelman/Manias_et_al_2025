@@ -17,9 +17,12 @@
 <img src="images/Fig2D-E.png" width="400">  
 
 ## Fig 4A. Annotated species tree  
-- Run `reciprocal_blast.ipynb` to generate reciprocal blast best hits   
-- with DimA, clin vs environmental, and Genera of interest mapped ot it in itol  
-- Add new species that have putative ortholog to GCF_003851985.1_WP_124309315.1, the P. chloraphis rBlast hit    
+1. Run `reciprocal_blast.ipynb` to download proteomes and generate reciprocal blast best hits
+2. Run `annotated_Pseudomonas_tree.ipynb`
+   to:   
+   - generate a species tree via 120 concatenated aligned proteins via Parks et al 2018 bac120 method.   
+   - make datasets files for annotating species tree in iTOL
+        
 <img src="images/Fig4A.png" width=500>   
 
 #### PCA plot:
