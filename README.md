@@ -20,7 +20,7 @@
 - Run `reciprocal_blast.ipynb` to generate reciprocal blast best hits  
 - with DimA, clin vs environmental, and Genera of interest mapped ot it in itol  
 - Add new species that have putative ortholog to GCF_003851985.1_WP_124309315.1, the P. chloraphis rBlast hit  
-
+<img src="images/Fig4A.png" width=500>
 
 #### Labeling:
 - ~~Color change: DymA should be purple (RGB: 173, 7, 27)~~
